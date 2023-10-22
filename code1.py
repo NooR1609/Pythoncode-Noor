@@ -8,6 +8,6 @@ Date:21/10/23
 '''
 cost_per_unit_mangoes=20
 money_rishu_has=10
-Price_five_Mangoes=5*cost_per_unit_mangoes
-money_rishu_needed=Price_five_Mangoes - money_rishu_has
-print('money rishu needed to buy 5 mangoes :',money_rishu_needed,'Rs')
+Mango_needed=5
+money_rishu_needed = Mango_needed*cost_per_unit_mangoes- money_rishu_has
+ print('money rishu needed to buy 5 mangoes :',money_rishu_needed,'Rs')
