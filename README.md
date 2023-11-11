@@ -9,3 +9,4 @@ This repository has the weekly code for python basics
 * [Code5](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code5.py): Expression Class Type
 * [Code6](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code6.py): If-else condition
 * [Code7](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code7.py): User input to find maximum
+* [Code8](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code8.py): User Input-print True 
