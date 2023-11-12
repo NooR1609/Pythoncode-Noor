@@ -13,3 +13,4 @@ This repository has the weekly code for python basics
 * [Code09](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code9.py): User Input-print True for same sign
 * [Code10](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code10.py): find maximum between three numbers
 * [Code11](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code11.py): whether number is odd, even or zero
+* [Code12](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code12.py): Check Leap Year
