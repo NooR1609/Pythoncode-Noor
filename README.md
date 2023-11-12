@@ -15,4 +15,4 @@ This repository has the weekly code for python basics
 * [Code11](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code11.py): whether number is odd, even or zero
 * [Code12](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code12.py): Check Leap Year
 * [Code13](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code13.py):Triangle is valid or not-three angles
-*  [Code14]():Triangle is valid or not-three Sides
+*  [Code14](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code14.py):Triangle is valid or not-three Sides
