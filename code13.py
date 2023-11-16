@@ -11,7 +11,9 @@ a2=int(input('Enter 2nd angle:'))
 a3=int(input('Enter 3rd angle:'))
 if(a1>0 and a2>0 and a3>0):
     if (a1+a2+a3==180):
-         print('Triangle is valid.')
-        
+         print('Triangle is valid with',a1,a2,'and',a3,'.')
+    else:
+        print('Triangle is not valid with',a1,a2,'and',a3,'.')
 else:
-    print('Triangle is not valid.')
+    print('Triangle is not valid with',a1,a2,'and',a3,'.')
+    
