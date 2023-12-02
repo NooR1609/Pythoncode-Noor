@@ -18,4 +18,4 @@ This repository has the weekly code for python basics
 * [Code14](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code14.py): Triangle is valid or not-three Sides
 
 ### Chapter 2: Loops
-* [Code15](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code15.py.py): First 10 Natural Number
+* [Code15](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code15.py.py): Pattern Using for loop
