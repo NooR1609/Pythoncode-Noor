@@ -19,3 +19,4 @@ This repository has the weekly code for python basics
 
 ### Chapter 2: Loops
 * [Code15](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code15.py.py): Pattern Using for loop
+* [Code16](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code16.py): sum of all numbers from 1 to given number
