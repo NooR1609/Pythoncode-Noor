@@ -18,5 +18,5 @@ This repository has the weekly code for python basics
 * [Code14](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code14.py): Triangle is valid or not-three Sides
 
 ### Chapter 2: Loops
-* [Code15](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code15.py.py): Pattern Using for loop
+* [Code15](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code15.py): Pattern Using for loop
 * [Code16](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code16.py): sum of all numbers from 1 to given number
