@@ -28,3 +28,6 @@ This repository has the weekly code for python basics
 * [Code22](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code22.py): Cube of 1 to given number.
 * [Code23](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code23.py): Star pattern using for loop.
 * [Code24](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code24.py): First 10 natural numbers using while loop
+
+### Chapter 3:Function
+
