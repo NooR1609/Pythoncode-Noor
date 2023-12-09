@@ -27,8 +27,15 @@ This repository has the weekly code for python basics
 * [Code21](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code21.py): Display all prime numbers within a range.
 * [Code22](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code22.py): Cube of 1 to given number.
 * [Code23](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code23.py): Star pattern using for loop.
-* [Code24](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code24.py): First 10 natural numbers using while loop
-* [Code25](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code25.py): Multiplication Table of Given Number
-
+* [Code24](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code24.py): First 10 natural numbers using while loop.
+* [Code25](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code25.py): Multiplication Table of Given Number.
+* [Code26](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code26.py): Reverse a given integer number.
+* [Code27](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code27.py): factorial of a given number.
+* [Code28]()
+* [Code29]()
+* [Code30]()
+* [Code31]()
+* [Code32]()
+  
 ### Chapter 3:Function
 
