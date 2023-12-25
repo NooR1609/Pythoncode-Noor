@@ -41,6 +41,7 @@ This repository has the weekly code for python basics
 * [Code33](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code33.py): Function for addition_and_Subtraction.
 * [Code34](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code34.py): function that takes two arguments name_and_age.
 * [Code35](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code35.py): function show_employee using conditions.
+* [Code36](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code36.py): Function to check_prime.
 
 
 
