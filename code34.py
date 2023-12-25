@@ -11,5 +11,7 @@ age=int(input('Enter The Age:'))
 
 def name_and_age (x,y):
     return(x,y)
+name,age=name_and_age (name,age)
 
 print('Name: ',name,'\n','Age: ',age,sep='')
+

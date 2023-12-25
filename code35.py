@@ -10,9 +10,14 @@ name=input("Enter The Name:")
 salary=int(input('Enter The salary:'))
 
 def show_employee(x,y=9000):
-    return(x,y)
-show_employee_name_age=show_employee(name,salary)
+    print('Name:',x,'\n','Salary:',y,sep='')
+    
+show_employee(name,salary)
+show_employee('Noor')
 
-print('Name:',name,'\n','Salary:',salary,sep='')
+
+
+
+
 
 
