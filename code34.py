@@ -10,8 +10,12 @@ name=input("Enter The Name:")
 age=int(input('Enter The Age:'))
 
 def name_and_age (x,y):
-    return(x,y)
-name,age=name_and_age (name,age)
+    print('Name: ',x,'\n','Age: ',y,sep='')
 
-print('Name: ',name,'\n','Age: ',age,sep='')
+name_age=name_and_age(name,age)
+
+    
+
+
+
 
