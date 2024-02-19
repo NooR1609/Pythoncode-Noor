@@ -44,9 +44,9 @@ This repository has the weekly code for python basics
 * [Code36](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code36.py): Function to check_prime.
 
 ### Test: 1
-* [code37]():
-* [code38]():
-* [code39]():
+* [code37](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob1.py): count all the letters,digits & special symbol from string
+* [code38](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob2(i).py): number pattern
+* [code39](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob3.py): Armstrong Number 
 * [code40]():
 
 
