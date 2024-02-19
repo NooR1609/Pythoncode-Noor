@@ -43,6 +43,11 @@ This repository has the weekly code for python basics
 * [Code35](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code35.py): function show_employee using conditions.
 * [Code36](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code36.py): Function to check_prime.
 
+### Test: 1
+* [code37]():
+* [code38]():
+* [code39]():
+* [code40]():
 
 
 
