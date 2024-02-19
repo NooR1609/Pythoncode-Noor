@@ -31,7 +31,7 @@ This repository has the weekly code for python basics
 * [Code25](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code25.py): Multiplication Table of Given Number.
 * [Code26](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code26.py): Reverse a given integer number.
 * [Code27](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code27.py): factorial of a given number.
-* [Code28]()
+* [Code28](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code28.py): sum of multiple of 3 or 5 below 1000
 * [Code29]()
 * [Code30]()
 * [Code31]()
