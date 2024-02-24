@@ -32,7 +32,7 @@ This repository has the weekly code for python basics
 * [Code26](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code26.py): Reverse a given integer number.
 * [Code27](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code27.py): factorial of a given number.
 * [Code28](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code28.py): sum of multiple of 3 or 5 below 1000
-* [Code29]()
+* [Code29](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code29.py): diff b/w sum_sqr_n and sqr_sum_n, n=100
 * [Code30]()
 * [Code31]()
 * [Code32]()
