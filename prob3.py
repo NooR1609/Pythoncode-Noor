@@ -6,14 +6,12 @@ Armstrong number are special mnumber with property.
 
 num1=1
 num2=1000
-
-for num in range(num1,num2+ 1):
-    order = len(str(num))
+for num in range(num1,num2+1):
     sum = 0
     temp = num
     while temp > 0:
         digit = temp % 10
-        sum += digit ** order
+        sum += digit **3
         temp //= 10
     if num == sum:
         print(num)
