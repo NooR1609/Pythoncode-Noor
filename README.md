@@ -33,21 +33,18 @@ This repository has the weekly code for python basics
 * [Code27](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code27.py): factorial of a given number.
 * [Code28](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code28.py): sum of multiple of 3 or 5 below 1000
 * [Code29](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code29.py): diff b/w sum_sqr_n and sqr_sum_n, n=100
-* [Code30]()
-* [Code31]()
-* [Code32]()
   
 ### Chapter 3:Function
-* [Code33](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code33.py): Function for addition_and_Subtraction.
-* [Code34](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code34.py): function that takes two arguments name_and_age.
-* [Code35](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code35.py): function show_employee using conditions.
-* [Code36](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code36.py): Function to check_prime.
+* [Code30](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code33.py): Function for addition_and_Subtraction.
+* [Code31](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code34.py): function that takes two arguments name_and_age.
+* [Code32](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code35.py): function show_employee using conditions.
+* [Code33](https://github.com/NooR1609/Pythoncode-Noor/blob/main/code36.py): Function to check_prime.
 
 ### Test: 1
-* [code37](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob1.py): count all the letters,digits & special symbol from string
-* [code38](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob2(i).py): number pattern
-* [code39](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob3.py): Armstrong Number 
-* [code40]():
+* [code34](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob1.py): count all the letters,digits & special symbol from string
+* [code35](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob2(i).py): number pattern
+* [code36](https://github.com/NooR1609/Pythoncode-Noor/blob/main/prob3.py): Armstrong Number 
+  
 
 
 
